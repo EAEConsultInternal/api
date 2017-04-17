@@ -38,7 +38,6 @@
         "registration_date":"2004-10-19",
         "tax_inspection_code":"5906",
         "is_bank":false,
-
         "address":{
            "full":"123308, г. Москва, ул. Демьяна Бедного, владение 24, к. 2а, строение III, кв. 3",
            "postal_code":"123308",
@@ -68,7 +67,7 @@
         "head":{  
            "position":"Руководитель",
            "inn":"771811057155",
-          "last_name":"Иванов",
+           "last_name":"Иванов",
            "first_name":"Владимир",
            "middle_name":"Иванович"
         },
