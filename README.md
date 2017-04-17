@@ -36,8 +36,8 @@
         "okpo":75577697,
         "okato":77401367000,
         "registration_date":"2004-10-19",
-        "taxInspectionCode":"5906",
-        "isBank":false,
+        "tax_inspection_code":"5906",
+        "is_bank":false,
 
         "address":{
            "full":"123308, г. Москва, ул. Демьяна Бедного, владение 24, к. 2а, строение III, кв. 3",
@@ -76,7 +76,7 @@
            {
             "code": "63.11.1",
             "description":"Деятельность по созданию и использованию баз данных и информационных ресурсов",
-            "isPrimary":true
+            "is_primary":true
            },
            {
             "code":"68.32",
